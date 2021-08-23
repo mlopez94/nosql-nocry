@@ -1,9 +1,14 @@
 # nosql-nocry
 
+![sql](https://user-images.githubusercontent.com/33878845/130380556-bc25b281-deb2-4d2f-a370-cfa002b47a02.PNG)
+![sql2](https://user-images.githubusercontent.com/33878845/130380558-ffdd0eec-6dd4-4142-8504-aebf8e98386c.PNG)
+
 ## Description
     AS A social media startup
     WANT an API for my social network that uses a NoSQL database
     SO THAT my website can handle large amounts of unstructured data
+    
+    
 
   ## Table of contents
   * [Installation](#installation)
